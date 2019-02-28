@@ -1,0 +1,71 @@
+.top-header{
+  background-color:#327BF5;
+  padding-left: 0px !important;
+}
+
+.menu-icon{
+  color: white;
+  font-size: 28px;
+  padding: 15px;
+  cursor: pointer;
+}
+
+.home-page {
+  display: flex;
+  justify-content: space-between;
+}
+
+.main-content {
+  min-height: 580px;
+  display: flex;
+  flex-direction: column;
+  margin: auto;
+}
+
+.data-form {
+  padding-top: 20px;
+}
+
+.is-active {
+  margin-top: 15px !important;
+  margin-left: 10px !important;
+}
+
+label {
+  padding-top: 8px;
+  padding-right: 5px;
+}
+
+.add-data,  .save-button{
+  margin-left: 40%;
+  margin-top: 1%;
+  margin-bottom: 2% !important;
+  width: 165px;
+}
+
+.table-container {
+  min-height: 385px;
+  max-height: 390px;
+  overflow-y: auto;
+  margin-bottom: 15px;
+}
+
+#title, #caption, #type {
+  margin-right: 5px;
+}
+
+.react-sanfona-item-title {
+    font-size: 15px;
+    padding: 15px;
+    border-bottom: 1px solid lightgrey;
+}
+
+.is-active-container {
+  word-break: keep-all;
+}
+
+.react-sanfona-item-title {
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
+}

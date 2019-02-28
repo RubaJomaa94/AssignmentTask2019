@@ -1,0 +1,14 @@
+.menu{
+  min-height: 580px;
+  padding: 0px !important;
+  background-color: #E4E6E7;
+  border: solid 1px lightgray;
+
+}
+
+.item{
+    border-bottom: solid 1px lightgray;
+    margin-bottom: 0;
+    padding: 10px;
+    padding-left: 15px;
+  }
